@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.18340dd0.css",
+    "main.js": "/MyPortfolio/static/js/main.74650deb.js",
+    "static/media/herobcimg.jpg": "/MyPortfolio/static/media/herobcimg.96581d5c506e719c65d0.jpg",
+    "static/media/intro-bg.jpg": "/MyPortfolio/static/media/intro-bg.cf2364827d8b8a98642e.jpg",
+    "static/media/react1.jpg": "/MyPortfolio/static/media/react1.d63ca3791694cd8f6f49.jpg",
+    "static/media/react2.webp": "/MyPortfolio/static/media/react2.8aa659a4278a7132e6f4.webp",
+    "index.html": "/MyPortfolio/index.html",
+    "main.18340dd0.css.map": "/MyPortfolio/static/css/main.18340dd0.css.map",
+    "main.74650deb.js.map": "/MyPortfolio/static/js/main.74650deb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18340dd0.css",
+    "static/js/main.74650deb.js"
+  ]
+}
