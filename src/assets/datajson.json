@@ -2,19 +2,19 @@
     {
         "imgarr" :["./imgarr/project1.png", "./imgarr/project2.png", "./imgarr/project3.png"],
         "title":"Ecommerce",
-        "desc":"Ecommerce is a method of buying and selling goods and services online.",
+        "desc":"Ecommerce Praveen is a method of buying and selling goods and services online.",
         "viewURL":"https://endearing-lamington-7a050c.netlify.app/",
         "sourceURL":"https://github.com/PK2173/userInterFaceWithMultipleCardsInReactJs"
     },{
         "imgarr" :["./imgarr/project2.png", "./imgarr/project1.png", "./imgarr/project3.png"],
         "title":"Ecommerce",
-        "desc":"Ecommerce is a method of buying and selling goods and services online.",
+        "desc":"Ecommerce Praveen is a method of buying and selling goods and services online.",
         "viewURL":"https://enchanting-concha-dad1e2.netlify.app/",
         "sourceURL":"https://github.com/PK2173/Tech_Ssolutions"
     },{
         "imgarr" :["./imgarr/project3.png", "./imgarr/project2.png", "./imgarr/project1.png"],
         "title":"Ecommerce",
-        "desc":"Ecommerce is a method of buying and selling goods and services online.",
+        "desc":"Ecommerce Praveen is a method of buying and selling goods and services online.",
         "viewURL":"https://enchanting-concha-dad1e2.netlify.app/",
         "sourceURL":"https://github.com/PK2173/Tech_Ssolutions"
     }
